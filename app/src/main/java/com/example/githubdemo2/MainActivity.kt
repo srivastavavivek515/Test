@@ -13,5 +13,6 @@ class MainActivity : AppCompatActivity() {
         Log.d("Test","This is commit3")
         Log.d("Test","Change in master branch 1")
         Log.d("Test","Change in master branch 2")
+        Log.d("Test","Change in release branch 1")
     }
 }
